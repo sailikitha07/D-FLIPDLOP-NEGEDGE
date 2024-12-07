@@ -62,12 +62,12 @@ endmodule
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot 2024-12-07 115639](https://github.com/user-attachments/assets/f8a30938-99b6-4259-8ebc-dd5e9fc4f90a)
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![Screenshot 2024-12-07 171014](https://github.com/user-attachments/assets/c8054fce-5b93-4181-8942-cbe412b21f6d)
 
+![Screenshot 2024-12-07 171014](https://github.com/user-attachments/assets/c8054fce-5b93-4181-8942-cbe412b21f6d)
 
 **RESULTS**
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables
